@@ -1,4 +1,4 @@
-# which-emoji-is-missing
+# WhichEmojiIsMissing
 
 ```
 virtualenv env
