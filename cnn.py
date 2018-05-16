@@ -88,7 +88,7 @@ def main():
     predict_train_input_fn = tf.estimator.inputs.pandas_input_fn(
         train_df, train_df["emoji"], shuffle=False)
     train_eval_result = estimator.evaluate(input_fn=predict_train_input_fn)
-    print("Training set accuracy: {accuracy}".format(**train_eval_result))
+    print("training set accuracy: {accuracy}".format(**train_eval_result))
 
 
 if __name__ == "__main__":
