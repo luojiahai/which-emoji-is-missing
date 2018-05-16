@@ -55,7 +55,7 @@ def main():
         key="sentence", 
         module_spec="https://tfhub.dev/google/nnlm-en-dim128/1")
 
-    # dnnclassifier
+    # deep neural network classifier
     estimator = tf.estimator.DNNClassifier(
         hidden_units=[500, 100],
         feature_columns=[embedded_text_feature_column],
