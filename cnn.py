@@ -43,7 +43,7 @@ def main():
     tf.logging.set_verbosity(tf.logging.ERROR)
 
     # load train data
-    train_df = load_train_dataset("COMP90049-2018S1_proj2-data/train_raw.txt")
+    train_df = load_train_dataset("data/train_raw.txt")
     train_df.head()
 
     # training input on the whole training set with no limit on training epochs
@@ -66,7 +66,7 @@ def main():
     estimator.train(input_fn=train_input_fn, steps=1000)
 
     # predict
-    test_df = load_test_dataset("COMP90049-2018S1_proj2-data/test_raw.txt")
+    test_df = load_test_dataset("data/test_raw.txt")
     test_input_fn = tf.estimator.inputs.pandas_input_fn(test_df, shuffle=False)
     predictions = estimator.predict(input_fn=test_input_fn)
     emoji_ids = []
