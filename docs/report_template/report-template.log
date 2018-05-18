@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.11.3)  18 MAY 2018 18:16
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.11.3)  18 MAY 2018 23:57
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -233,8 +233,8 @@ e
 LaTeX Warning: No \author given.
 
 
-Underfull \hbox (badness 4660) in paragraph at lines 47--48
-\OT1/cmr/m/it/12 tions, and re-ver-sals \OT1/cmr/m/n/12 1966: So-viet
+Underfull \hbox (badness 2726) in paragraph at lines 42--47
+\OT1/cmr/m/n/12 200B cor-pus, is based on feed-forward
  []
 
 [1{/usr/local/texlive/2016/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
@@ -242,22 +242,23 @@ Underfull \hbox (badness 4660) in paragraph at lines 47--48
 
 
 ]
-[2
+Missing character: There is no Ã in font cmr12!
+Missing character: There is no © in font cmr12!
 
-] (./report-template.aux) ) 
+[2] (./report-template.aux) ) 
 Here is how much of TeX's memory you used:
- 2633 strings out of 493014
- 37891 string characters out of 6133351
- 107207 words of memory out of 5000000
- 6162 multiletter control sequences out of 15000+600000
- 5956 words of font info for 22 fonts, out of 8000000 for 9000
+ 2630 strings out of 493014
+ 37879 string characters out of 6133351
+ 109195 words of memory out of 5000000
+ 6159 multiletter control sequences out of 15000+600000
+ 6263 words of font info for 23 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 51i,9n,27p,443b,198s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/local/texlive/2016/texmf-dist/fonts/type1/publ
-ic/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/publi
-c/amsfonts/cm/cmr12.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/
-amsfonts/cm/cmti12.pfb>
-Output written on report-template.pdf (2 pages, 52955 bytes).
+ 51i,9n,27p,669b,193s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/local/texlive/2016/texmf-dist/fonts/type1/pu
+blic/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/pub
+lic/amsfonts/cm/cmr12.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/publi
+c/amsfonts/cm/cmti12.pfb>
+Output written on report-template.pdf (2 pages, 53275 bytes).
 PDF statistics:
  23 PDF objects out of 1000 (max. 8388607)
  15 compressed objects within 1 object stream

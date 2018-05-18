@@ -6,7 +6,6 @@ import os
 import pandas as pd
 import re
 import seaborn as sns
-import collections
 
 N_CLASSES = 10
 LABELS_DICT = {"Clap": 0, "Cry": 1, "Disappoint": 2, "Explode": 3, "FacePalm": 4,
@@ -97,6 +96,7 @@ def main():
     train_df = load_dataset(TRAIN_DATASET_PATH)
     dev_df = load_dataset(DEV_DATASET_PATH)
     train_df.head()
+    print(train_df)
 
     # training input on the whole training set with no limit on training epochs
     train_input_fn = tf.estimator.inputs.pandas_input_fn(
