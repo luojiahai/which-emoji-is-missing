@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.11.3)  18 MAY 2018 23:57
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.11.3)  19 MAY 2018 00:35
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -233,7 +233,7 @@ e
 LaTeX Warning: No \author given.
 
 
-Underfull \hbox (badness 2726) in paragraph at lines 42--47
+Underfull \hbox (badness 2726) in paragraph at lines 45--50
 \OT1/cmr/m/n/12 200B cor-pus, is based on feed-forward
  []
 
@@ -242,9 +242,12 @@ Underfull \hbox (badness 2726) in paragraph at lines 42--47
 
 
 ]
+Underfull \hbox (badness 2126) in paragraph at lines 53--58
+\OT1/cmr/m/n/12 TensorFlow DNN Clas-si-fier has a well-
+ []
+
 Missing character: There is no Ã in font cmr12!
 Missing character: There is no © in font cmr12!
-
 [2] (./report-template.aux) ) 
 Here is how much of TeX's memory you used:
  2630 strings out of 493014
@@ -253,12 +256,12 @@ Here is how much of TeX's memory you used:
  6159 multiletter control sequences out of 15000+600000
  6263 words of font info for 23 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 51i,9n,27p,669b,193s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 51i,9n,27p,740b,193s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2016/texmf-dist/fonts/type1/pu
 blic/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/pub
 lic/amsfonts/cm/cmr12.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/publi
 c/amsfonts/cm/cmti12.pfb>
-Output written on report-template.pdf (2 pages, 53275 bytes).
+Output written on report-template.pdf (2 pages, 53592 bytes).
 PDF statistics:
  23 PDF objects out of 1000 (max. 8388607)
  15 compressed objects within 1 object stream
