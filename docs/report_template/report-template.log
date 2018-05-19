@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.11.3)  19 MAY 2018 00:35
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.11.3)  19 MAY 2018 23:42
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -125,22 +125,6 @@ LaTeX Info: Thecontrolsequence`\]'isalreadyrobust on input line 129.
 \l_MT_above_shortintertext_sep=\dimen119
 \l_MT_below_shortintertext_sep=\dimen120
 )
-(./report-template.aux)
-\openout1 = `report-template.aux'.
-
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-
 (/usr/local/texlive/2016/texmf-dist/tex/latex/graphics/graphicx.sty
 Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
 
@@ -165,21 +149,68 @@ Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
 Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
 )
 \Gread@gobject=\count103
+))
+\Gin@req@height=\dimen121
+\Gin@req@width=\dimen122
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/subfigure/subfigure.sty
+Package: subfigure 2002/03/15 v2.1.5 subfigure package
+\subfigtopskip=\skip51
+\subfigcapskip=\skip52
+\subfigcaptopadj=\dimen123
+\subfigbottomskip=\skip53
+\subfigcapmargin=\dimen124
+\subfiglabelskip=\skip54
+\c@subfigure=\count104
+\c@lofdepth=\count105
+\c@subtable=\count106
+\c@lotdepth=\count107
+
+****************************************
+* Local config file subfigure.cfg used *
+****************************************
+(/usr/local/texlive/2016/texmf-dist/tex/latex/subfigure/subfigure.cfg)
+\subfig@top=\skip55
+\subfig@bottom=\skip56
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count108
+\float@exts=\toks20
+\float@box=\box28
+\@float@everytoks=\toks21
+\@floatcapt=\box29
+)
+(./report-template.aux)
+\openout1 = `report-template.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
 
 (/usr/local/texlive/2016/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count104
-\scratchdimen=\dimen121
-\scratchbox=\box28
-\nofMPsegments=\count105
-\nofMParguments=\count106
-\everyMPshowfont=\toks20
-\MPscratchCnt=\count107
-\MPscratchDim=\dimen122
-\MPnumerator=\count108
-\makeMPintoPDFobject=\count109
-\everyMPtoPDFconversion=\toks21
-))) (/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+\scratchcounter=\count109
+\scratchdimen=\dimen125
+\scratchbox=\box30
+\nofMPsegments=\count110
+\nofMParguments=\count111
+\everyMPshowfont=\toks22
+\MPscratchCnt=\count112
+\MPscratchDim=\dimen126
+\MPnumerator=\count113
+\makeMPintoPDFobject=\count114
+\everyMPtoPDFconversion=\toks23
+) (/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
 Package: pdftexcmds 2016/05/10 v0.21 Utility functions of pdfTeX for LuaTeX (HO
 )
 
@@ -226,15 +257,12 @@ G,.JBIG2,.JB2,.eps]
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-\Gin@req@height=\dimen123
-\Gin@req@width=\dimen124
-)
 
 LaTeX Warning: No \author given.
 
 
-Underfull \hbox (badness 2726) in paragraph at lines 45--50
-\OT1/cmr/m/n/12 200B cor-pus, is based on feed-forward
+Underfull \hbox (badness 3229) in paragraph at lines 45--46
+[]\OT1/cmr/m/n/12 To ini-tial-ize the Ma-chine Learn-ing
  []
 
 [1{/usr/local/texlive/2016/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
@@ -242,29 +270,60 @@ Underfull \hbox (badness 2726) in paragraph at lines 45--50
 
 
 ]
-Underfull \hbox (badness 2126) in paragraph at lines 53--58
-\OT1/cmr/m/n/12 TensorFlow DNN Clas-si-fier has a well-
+Underfull \hbox (badness 2726) in paragraph at lines 54--59
+\OT1/cmr/m/n/12 200B cor-pus, is based on feed-forward
  []
 
+<nn.jpeg, id=8, 803.0pt x 417.56pt>
+File: nn.jpeg Graphic file (type jpg)
+ <use nn.jpeg>
+Package pdftex.def Info: nn.jpeg used on input line 66.
+(pdftex.def)             Requested size: 225.84375pt x 117.43845pt.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 78.
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/base/omscmr.fd
+File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 78.
+ [2 <./nn.jpeg>]
 Missing character: There is no Ã in font cmr12!
 Missing character: There is no © in font cmr12!
-[2] (./report-template.aux) ) 
+
+Underfull \hbox (badness 10000) in paragraph at lines 113--114
+[]\OT1/cmr/m/n/12 Koehrsen, William \OT1/cmr/m/it/12 Deep Neu-ral
+ []
+
+
+Underfull \hbox (badness 4531) in paragraph at lines 113--114
+\OT1/cmr/m/it/12 Net-work Clas-si-fier \OT1/cmr/m/n/12 2017: Medium,
+ []
+
+
+Overfull \hbox (34.52026pt too wide) in paragraph at lines 113--114
+\OT1/cmr/m/n/12 https://medium.com/@williamkoehrsen/deep-
+ []
+
+[3
+
+] (./report-template.aux) ) 
 Here is how much of TeX's memory you used:
- 2630 strings out of 493014
- 37879 string characters out of 6133351
- 109195 words of memory out of 5000000
- 6159 multiletter control sequences out of 15000+600000
- 6263 words of font info for 23 fonts, out of 8000000 for 9000
+ 2892 strings out of 493014
+ 41480 string characters out of 6133351
+ 111676 words of memory out of 5000000
+ 6399 multiletter control sequences out of 15000+600000
+ 9375 words of font info for 34 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 51i,9n,27p,740b,193s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/local/texlive/2016/texmf-dist/fonts/type1/pu
-blic/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/pub
-lic/amsfonts/cm/cmr12.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/publi
-c/amsfonts/cm/cmti12.pfb>
-Output written on report-template.pdf (2 pages, 53592 bytes).
+ 38i,9n,24p,478b,221s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/local/texlive/2016/texmf-dist/fonts/type1/publ
+ic/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/publi
+c/amsfonts/cm/cmr12.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/
+amsfonts/cm/cmsy10.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/a
+msfonts/cm/cmti12.pfb>
+Output written on report-template.pdf (3 pages, 113572 bytes).
 PDF statistics:
- 23 PDF objects out of 1000 (max. 8388607)
- 15 compressed objects within 1 object stream
+ 31 PDF objects out of 1000 (max. 8388607)
+ 20 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 6 words of extra memory for PDF output out of 10000 (max. 10000000)
 
